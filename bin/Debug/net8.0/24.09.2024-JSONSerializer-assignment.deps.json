@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "24.09.2024-JSONSerializer-assignment/1.0.0": {
+        "runtime": {
+          "24.09.2024-JSONSerializer-assignment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "24.09.2024-JSONSerializer-assignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
