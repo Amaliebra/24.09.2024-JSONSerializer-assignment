@@ -7,7 +7,7 @@ namespace _24._09._2024_JSONSerializer_assignment
     {
         public static void Main()
         {
-            string path = @"C:\Users\amali\Desktop\School\24.09.2024-JSONSerializer-assignment\temp\MyText.txtdo";
+            string path = @"C:\Users\amali\Desktop\School\24.09.2024-JSONSerializer-assignment\temp\MyText.txt";
             if (!File.Exists(path))
             {
                 using (StreamWriter sw = File.CreateText(path))
