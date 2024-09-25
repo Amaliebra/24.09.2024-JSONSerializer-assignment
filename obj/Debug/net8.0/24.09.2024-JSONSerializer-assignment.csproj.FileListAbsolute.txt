@@ -12,3 +12,4 @@ C:\Users\amali\Desktop\School\24.09.2024-JSONSerializer-assignment\obj\Debug\net
 C:\Users\amali\Desktop\School\24.09.2024-JSONSerializer-assignment\obj\Debug\net8.0\24.09.2024-JSONSerializer-assignment.pdb
 C:\Users\amali\Desktop\School\24.09.2024-JSONSerializer-assignment\obj\Debug\net8.0\24.09.2024-JSONSerializer-assignment.genruntimeconfig.cache
 C:\Users\amali\Desktop\School\24.09.2024-JSONSerializer-assignment\obj\Debug\net8.0\ref\24.09.2024-JSONSerializer-assignment.dll
+C:\Users\amali\Desktop\School\24.09.2024-JSONSerializer-assignment\obj\Debug\net8.0\24.09.2024-JSONSerializer-assignment.sourcelink.json

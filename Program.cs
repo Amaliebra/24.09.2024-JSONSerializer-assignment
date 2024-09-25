@@ -3,8 +3,15 @@ using System.IO;
 
 namespace _24._09._2024_JSONSerializer_assignment
 {
-    class Program
+    public class SerializeWeather
     {
+        public DateTimeOffset Date { get; set; }
+        public int TemperatureCelsius { get; set; }
+        public string? Summary { get; set; }
+    }
+    public class Program
+    {
+
         public static void Main()
         {
             string path = @"C:\Users\amali\Desktop\School\24.09.2024-JSONSerializer-assignment\temp\MyText.txt";
@@ -24,6 +31,8 @@ namespace _24._09._2024_JSONSerializer_assignment
                     Console.WriteLine(s);
                 }
             }
+
+
         }
     }
 }
