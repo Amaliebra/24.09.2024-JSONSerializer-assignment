@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("24.09.2024-JSONSerializer-assignment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+300d45a0ea6af798924337069c2e3cf4d7d77566")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+624e5b6d9b252de6737f3329bf7f1090069a442e")]
 [assembly: System.Reflection.AssemblyProductAttribute("24.09.2024-JSONSerializer-assignment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("24.09.2024-JSONSerializer-assignment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

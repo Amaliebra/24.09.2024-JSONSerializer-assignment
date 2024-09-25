@@ -3,12 +3,6 @@ using System.IO;
 
 namespace _24._09._2024_JSONSerializer_assignment
 {
-    public class SerializeWeather
-    {
-        public DateTimeOffset Date { get; set; }
-        public int TemperatureCelsius { get; set; }
-        public string? Summary { get; set; }
-    }
     public class Program
     {
 
@@ -32,7 +26,16 @@ namespace _24._09._2024_JSONSerializer_assignment
                 }
             }
 
+            var serializeWeather = new SerializeWeather
+            {
+                Date = DateTime.Parse("2024.09.25"),
+                TemperatureCelsius = 25,
+                Summary = "Good temperature"
+            };
 
+            var options = new JsonSerializerOptions { WriteIndented = true };
+            string jsonString = JsonSerializer.Serialize(serializeWeather, options);
+            Console.WriteLine(jsonString);
         }
     }
 }
